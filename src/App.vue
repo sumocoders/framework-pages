@@ -14,8 +14,6 @@ export default {
 </script>
 
 <style lang="scss">
-@import "bootstrap/scss/bootstrap";
-@import "bootstrap-icons/font/bootstrap-icons.css";
 
 #app {
   -webkit-font-smoothing: antialiased;
