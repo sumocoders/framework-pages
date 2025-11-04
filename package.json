@@ -1,6 +1,6 @@
 {
   "name": "sumocoders-framework-pages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pages app for the sumocoders framework",
   "main": "/src/main.js",
   "files": ["dist", "src"],
