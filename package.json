@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Pages app for the sumocoders framework",
   "main": "/src/main.js",
+  "files": ["dist", "src"],
   "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
