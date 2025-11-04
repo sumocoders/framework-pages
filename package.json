@@ -1,7 +1,9 @@
 {
-  "name": "vue-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "sumocoders-framework-pages",
+  "version": "1.0.0",
+  "description": "Pages app for the sumocoders framework",
+  "main": "/src/main.js",
+  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
